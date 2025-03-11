@@ -2,7 +2,7 @@
 
 Reveal Your Life Path Number, Personality, and Birth Card! Built with HTML, this calculator helps you discover insights based on your birth date.
 
-![Life Path Calculator Screenshot](https://jasonbra1n.github.io/life-path-calculator/img/calc_screenshot.webp)  
+![Life Path Calculator Screenshot](https://jasonbra1n.github.io/life-path-calculator/img/lifepath.webp)  
 
 ## Live Demo
 
